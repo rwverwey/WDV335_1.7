@@ -1,4 +1,4 @@
-// Aquare Root
+// Square Root
 function sqrt(x) {
   return Math.sqrt(x);
 }
